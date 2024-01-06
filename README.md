@@ -1,0 +1,2 @@
+Recursionのバックエンドプロジェクト "Remote-Procedure-Call"の課題。
+UNIXソケットを利用して異なる言語で作成されたクライアントとサーバ間でjsonを利用した通信を行う。
